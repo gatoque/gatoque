@@ -1,5 +1,5 @@
 👋 Ｈｉ ｔｈｅｒｅ, Ｉ’ｍ Ｖｉｔａｌｉｉ.
-Web and mobile developer with management skills.
+Web developer with management skills.
 - 👨‍💻 I’m interested in technology and finding simple solutions for complex problems
 - 🌱 I’m always learning new React practices to create better code every day
 - 📫 How to reach me: gatoquenomuda@gmail.com
